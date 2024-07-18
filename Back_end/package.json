@@ -10,7 +10,7 @@
       "Task manager",
       "Tasks"
     ],
-    "author": "Mwenda",
+    "author": "Ella",
     "license": "MIT",
     "description": "The backend part of simple task manager with user authentication",
     "dependencies": {
